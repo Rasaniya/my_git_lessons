@@ -1,0 +1,6 @@
+1) git init (initialise the repository)
+2) git add . (Add and track all of changes)
+3) git commit -m "Our commit message" (Message of commit)
+4) git status (check the status)
+5) git log (see all of commits.) (hit 'q' to exit)
+6) git checkout {commit id} (Travel back in time)
